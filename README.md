@@ -4,12 +4,12 @@
 
 Конвертация IP из строки в число: 
 ```pawn
-ip_int_to_string(ip);
+IP::int_to_string(ip);
 ```
 
 Конвертация IP из числа в строку:
 ```pawn
-ip_string_to_int(const ip[]);
+IP::string_to_int(const ip[]);
 ```
 
 ### Примеры
